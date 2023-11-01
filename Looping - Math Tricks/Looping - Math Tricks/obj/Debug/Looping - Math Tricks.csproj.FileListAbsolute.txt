@@ -1,0 +1,11 @@
+C:\Users\This\Secchol\Looping - Math Tricks\Looping - Math Tricks\bin\Debug\Looping - Math Tricks.exe.config
+C:\Users\This\Secchol\Looping - Math Tricks\Looping - Math Tricks\bin\Debug\Looping - Math Tricks.exe
+C:\Users\This\Secchol\Looping - Math Tricks\Looping - Math Tricks\bin\Debug\Looping - Math Tricks.pdb
+C:\Users\This\Secchol\Looping - Math Tricks\Looping - Math Tricks\obj\Debug\Looping - Math Tricks.csproj.AssemblyReference.cache
+C:\Users\This\Secchol\Looping - Math Tricks\Looping - Math Tricks\obj\Debug\Looping - Math Tricks.csproj.SuggestedBindingRedirects.cache
+C:\Users\This\Secchol\Looping - Math Tricks\Looping - Math Tricks\obj\Debug\Looping___Math_Tricks.Form1.resources
+C:\Users\This\Secchol\Looping - Math Tricks\Looping - Math Tricks\obj\Debug\Looping___Math_Tricks.Properties.Resources.resources
+C:\Users\This\Secchol\Looping - Math Tricks\Looping - Math Tricks\obj\Debug\Looping - Math Tricks.csproj.GenerateResource.cache
+C:\Users\This\Secchol\Looping - Math Tricks\Looping - Math Tricks\obj\Debug\Looping - Math Tricks.csproj.CoreCompileInputs.cache
+C:\Users\This\Secchol\Looping - Math Tricks\Looping - Math Tricks\obj\Debug\Looping - Math Tricks.exe
+C:\Users\This\Secchol\Looping - Math Tricks\Looping - Math Tricks\obj\Debug\Looping - Math Tricks.pdb
